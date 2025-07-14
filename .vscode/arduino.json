@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:mega",
+    "programmer": "avrispmkii",
+    "port": "COM3",
+    "sketch": "Rubik_Kocka_Timer_KB.ino",
+    "configuration": "cpu=atmega2560"
+}
