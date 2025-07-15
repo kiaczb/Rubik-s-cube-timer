@@ -18,3 +18,5 @@ I used an Arduion Mega with an UTFT touch screen and two touch sensors.
 
 ## Future upgrades
 I wanted to create an Android app to connect it to the timer via Bluetooth or Wi-Fi and some other features like displaying the scramble and other categories.
+
+Here is a short video of the timer: https://youtu.be/FlmtxGmZdrM
